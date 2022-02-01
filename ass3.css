@@ -1,0 +1,143 @@
+body{
+    background-color: burlywood;
+}
+.box {
+    border: 5px solid black;
+    border-radius: 10px;
+    width:250px;
+    height: 80px;
+    background-color: cadetblue;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    left:410px;
+    margin-top: 9px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 5px 5px;
+}
+.hi {
+    border:2px solid black;
+}
+.border {
+    border:2px solid blue;
+width:1237px;
+height:800px;
+}
+.box1 {
+    border: 5px solid black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    width: 200px;
+height:95px;
+ padding:20px;
+ margin-left: 10px;
+ font-size: 18px;
+ margin-top: 5px;
+ box-shadow: 5px 5px;
+}
+.box2 {
+    border: 5px solid black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    width: 250px;
+height:150px;
+position: relative;
+left:930px;
+bottom: 146px;
+box-shadow: 5px 5px;
+
+    
+}
+.box3 {
+    border: 5px solid black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    width: 250px;
+height:130px;
+position: relative;
+top:310px;
+left:5px;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+padding-top: 20px;
+box-shadow: 5px 5px;
+
+
+}
+.box4 {
+    border: 5px solid black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    width: 250px;
+height:130px;
+text-align: center;
+position: relative;
+font-size: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+left: 950px;
+top:155px;
+margin-bottom:20px;
+box-shadow: 5px 5px;
+}
+.test6{
+    border: 4px solid black;
+    background-color:red;
+    width: 400px;
+    height: 100;
+    color: white;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 50px;
+    left: 430px;
+    z-index: +1;
+    box-shadow: 5px 5px black;
+}
+h3{
+    display: inline-block;
+}
+p{
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+}
+.parent{
+    border: 4px solid red;
+    background-color: brown;
+    text-align: center;
+    width: 620px;
+    position: relative;
+    left: 300px;
+}
+.child{
+    display: inline-block;
+    border: 2px solid red;
+    background-color: rgb(6, 120, 235);
+     width: 300px;
+     height: 250px;
+    
+}
+.child1{
+    display: inline-block;
+    border: 2px solid red;
+    background-color:rgb(6, 120, 235);
+    width: 300px;
+    height: 250px;
+    box-sizing: border-box;
+    
+}
+.child2{
+    border: 2px solid red;
+    background-color: rgb(6, 120, 235);
+    width: 600px;
+    height: 200px;
+    margin:3px;
+}
+
